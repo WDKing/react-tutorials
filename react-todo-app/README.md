@@ -1,3 +1,5 @@
+This was an example project of 'Create a simple To-Do App with React' found at https://scotch.io/tutorials/create-a-simple-to-do-app-with-react#toc-prerequisites
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
